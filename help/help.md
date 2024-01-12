@@ -209,15 +209,19 @@ poetry env info --path
 ```
 
 Using the Developer Tools (`CMD + Shift + P`), search for `Python: Select Interpreter`
+
 ![](./select-interpreter.png)
 
 and select `Enter interpreter path...`
+
 ![](./enter-interpreter-path.png)
 
 Now paste in the path to the virtual environment:
+
 ![](./browse-interpreter-path.png)
 
 paste the path to the virtual environment:
+
 ![](./paste-interpreter-path.png)`
 
 and hit Enter.
