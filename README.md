@@ -1,3 +1,13 @@
+# LangChain Quickstart, For Apple M1/M2 Machines.
+
+I had trouble getting higher Python versions (`>=3.12.1`) built, and once I did I had issues getting the latest from LangChain (`0.1.0`) to work on my M2 Macbook Pro, so I thought I'd share my solution. I'm not sure if this is the best way to do it, but it works for me.
+
+See the [Help Guide](./help/help.md) for a full walkthrough of setting up your environment on an M1/M2 machine.
+
+---
+
+> The following is the original README.md from LangChain
+
 # my-app
 
 ## Installation
